@@ -1,0 +1,2 @@
+1. WebRTC: ICE failed, your TURN server appears to be broken, see about:webrtc for more details
+2. [{0xc00013e6c0 0xc0008f4d50}] pc ERROR: 2024/10/18 10:47:57 Incoming unhandled RTP ssrc(4168676571), OnTrack will not be fired. mid RTP Extensions required for Simulcast
