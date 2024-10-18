@@ -24,11 +24,11 @@ var (
 		ICETransportPolicy: webrtc.ICETransportPolicyRelay,
 		ICEServers: []webrtc.ICEServer{
 			{
-				URLs: []string{"stun:relay.metered.ca:80"},
+				URLs: []string{"stun:relay.metered.ca:3478"},
 			},
 			{
 				URLs: []string{
-					"turn:relay.metered.ca:80",
+					"turn:relay.metered.ca:3478",
 				},
 				Username:       "f656bb327ada11408d2cd592",
 				Credential:     "D5FTwyiln3XE0vFq",
